@@ -27,7 +27,7 @@ This repository contains the preprocessing and analysis pipeline accompanying th
 
 A representative sample dataset is publicly available on Zenodo. The full dataset (10.7 TB) is available under restricted access — contact sneethir@gmail.com to request access through a Data Access Agreement.
 
-**Sample Dataset DOI:** [to be updated upon publication]
+**Sample Dataset DOI:** https://doi.org/10.5281/zenodo.18735884
 
 ---
 
