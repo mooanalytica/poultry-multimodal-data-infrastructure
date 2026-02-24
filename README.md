@@ -20,7 +20,6 @@ This repository contains the preprocessing and analysis pipeline accompanying th
 | `video_illumination_correction.ipynb` | Brightness, contrast and hue correction for barn video footage |
 | `audio_denoising_pipeline.ipynb` | Spectral noise reduction for continuous barn audio recordings |
 | `environmental_eda.ipynb` | Descriptive statistics for temperature and humidity data |
-| `thermal_eda.ipynb` | Weekly surface temperature trends across developmental stages |
 
 ---
 
